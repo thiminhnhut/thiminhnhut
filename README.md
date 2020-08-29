@@ -1,16 +1,19 @@
-### Hi there 👋
+# Knowledge
 
-<!--
-**thiminhnhut/thiminhnhut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Programming Languages: C/C++ (for Embedded Programming), Kotlin/Java (for Android App on Mobile), Python, LaTeX (for write documents).
 
-Here are some ideas to get you started:
+- Hardwares & Framworks: Arduino, ESP8266, ESP32 (Arduino Framework), PIC microcontroller, Raspberry Pi, PLC (Programmable Logic Controller).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- OS: Windows, Ubuntu.
+
+- Editors: VSCode, Android Studio.
+
+- Works: IoT, Android App on Mobile.
+
+- Skills: 
+
+  - IoT: Communication sensors, hardware for field Environment, SmartHome; Homebridge support for device non-HomeKit.
+  
+  - IoT Protocols: MQTT, TCP, UDP, HTTP.
+  
+  - Write libraries for Arduino Framework, Kotlin/Java Libraries for Android.
