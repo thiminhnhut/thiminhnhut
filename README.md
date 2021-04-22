@@ -10,10 +10,12 @@
 
 - Works: IoT, Android App on Mobile.
 
-- Skills: 
+- Skills:
 
   - IoT: Communication sensors, hardware for field Environment, SmartHome; Homebridge support for device non-HomeKit.
-  
+
   - IoT Protocols: MQTT, TCP, UDP, HTTP.
-  
+
   - Write libraries for Arduino Framework, Kotlin/Java Libraries for Android.
+
+  ![Thi Minh Nhut github stats](https://github-readme-stats.vercel.app/api?username=thiminhnhut&show_icons=true&custom_title=Thi%20Minh%20Nhut%20GitHub%20Stats:)
