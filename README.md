@@ -39,9 +39,3 @@
     Android SDK (Java/Kotlin).
 
   - **Write libraries:** Arduino/ESP8266/ESP32 with Arduino Framework, Kotlin/Java Libraries for Android.
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiminhnhut&count_private=true&show_icons=true&hide_rank=false&theme=onedark" />
-  </a> <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiminhnhut&layout=compact&theme=onedark" />
-  </a>
