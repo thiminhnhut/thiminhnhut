@@ -4,6 +4,10 @@
 
 - Email: thiminhnhut@gmail.com
 
+## CV
+
+- [CV-Developer_ThiMinhNhut](https://www.overleaf.com/read/pwkcdwqrqcxr#a8f3a3)
+
 ## Introduction
 
 - **Programming Languages:** C/C++ (for Embedded Programming, Web Framework, Android NDK),
